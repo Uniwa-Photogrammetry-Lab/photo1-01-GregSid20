@@ -3,6 +3,8 @@
 22391080
 6ο Εξάμηνο
 
+(Κανω χειρογραφα την ασκηση και τη στελνω με upload)
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
